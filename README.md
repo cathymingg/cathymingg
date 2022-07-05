@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cathymingg
-- 👀 I’m interested in becoming a Software Engineer (FullDev)
+- 👀 I’m interested in becoming a Software Engineer (Front-end Dev)
 - 🌱 I’m currently studying Computer Science, Honours
 - 📫 Email: sanbuenaventuracathleen@gmail.com
 
